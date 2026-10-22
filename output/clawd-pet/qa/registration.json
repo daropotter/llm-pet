@@ -1,0 +1,110 @@
+[
+  {
+    "state": "failed",
+    "shared_scale": [
+      0.8489583333333334,
+      0.8509615384615384
+    ],
+    "translation": [
+      14,
+      36
+    ],
+    "baseline": 190
+  },
+  {
+    "state": "idle",
+    "shared_scale": [
+      0.8489583333333334,
+      0.8509615384615384
+    ],
+    "translation": [
+      14,
+      37
+    ],
+    "baseline": 190
+  },
+  {
+    "state": "jumping",
+    "shared_scale": [
+      0.8489583333333334,
+      0.8509615384615384
+    ],
+    "translation": [
+      14,
+      19
+    ],
+    "baseline": 190
+  },
+  {
+    "state": "review",
+    "shared_scale": [
+      0.8489583333333334,
+      0.8509615384615384
+    ],
+    "translation": [
+      14,
+      37
+    ],
+    "baseline": 190
+  },
+  {
+    "state": "running",
+    "shared_scale": [
+      0.8489583333333334,
+      0.8509615384615384
+    ],
+    "translation": [
+      14,
+      30
+    ],
+    "baseline": 190
+  },
+  {
+    "state": "running-left",
+    "shared_scale": [
+      0.8489583333333334,
+      0.8509615384615384
+    ],
+    "translation": [
+      14,
+      32
+    ],
+    "baseline": 190
+  },
+  {
+    "state": "running-right",
+    "shared_scale": [
+      0.8489583333333334,
+      0.8509615384615384
+    ],
+    "translation": [
+      14,
+      31
+    ],
+    "baseline": 190
+  },
+  {
+    "state": "waiting",
+    "shared_scale": [
+      0.8489583333333334,
+      0.8509615384615384
+    ],
+    "translation": [
+      14,
+      37
+    ],
+    "baseline": 190
+  },
+  {
+    "state": "waving",
+    "shared_scale": [
+      0.8489583333333334,
+      0.8509615384615384
+    ],
+    "translation": [
+      14,
+      38
+    ],
+    "baseline": 190
+  }
+]

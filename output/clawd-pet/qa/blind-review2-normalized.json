@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's eye cluster shifts left and slopes toward the left edge; B's level eyes sit farther right."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A's eyes gather near the right edge; B's cluster is leftward with a diagonal arrangement."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's face is left of body center; B's eyes sit close to the right boundary."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A's eyes are packed at the right side, whereas B's eyes are distinctly on the left."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "The eye cluster occupies the left portion in A and the right portion in B."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A's eyes are at the right edge; B's eyes sit left of center and slope diagonally."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-right",
+      "B": "ambiguous",
+      "reason": "A's eyes are clearly right-shifted. B's widely spaced level eyes appear roughly centered, so a leftward gaze is not clear."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "down",
+      "B": "up",
+      "reason": "A's eyes sit near the lower body edge; B's eyes are high in the face."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "down",
+      "B": "up",
+      "reason": "A's eyes lie just above the bottom edge, while B's eyes are near the upper face."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "down",
+      "B": "up",
+      "reason": "A's eyes sit low; B's eyes occupy a substantially higher position."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "ambiguous",
+      "B": "down",
+      "reason": "B's eyes sit near the lower edge. A's eyes are higher but still around the middle-to-lower face, without a clear upward gaze."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "down",
+      "B": "up",
+      "reason": "A's eyes are close to the lower edge; B's diagonal eye cluster is high near the upper-left corner."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "up",
+      "B": "down",
+      "reason": "A's eyes sit high below the upper-left edge; B's eye cluster sits distinctly lower."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "ambiguous",
+      "B": "ambiguous",
+      "reason": "Both diagonal eye clusters occupy the middle portion of the face. A is slightly higher, but neither conveys an unambiguous vertical gaze."
+    }
+  ]
+}

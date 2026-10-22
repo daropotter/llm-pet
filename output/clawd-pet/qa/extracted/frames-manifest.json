@@ -1,0 +1,125 @@
+{
+  "ok": true,
+  "chroma_key": {
+    "hex": "#FF00FF",
+    "rgb": [
+      255,
+      0,
+      255
+    ],
+    "threshold": 96.0
+  },
+  "rows": [
+    {
+      "state": "idle",
+      "frames": [
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/idle/00.png",
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/idle/01.png",
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/idle/02.png",
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/idle/03.png",
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/idle/04.png",
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/idle/05.png"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "running-right",
+      "frames": [
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/running-right/00.png",
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/running-right/01.png",
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/running-right/02.png",
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/running-right/03.png",
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/running-right/04.png",
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/running-right/05.png",
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/running-right/06.png",
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/running-right/07.png"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "running-left",
+      "frames": [
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/running-left/00.png",
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/running-left/01.png",
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/running-left/02.png",
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/running-left/03.png",
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/running-left/04.png",
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/running-left/05.png",
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/running-left/06.png",
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/running-left/07.png"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "waving",
+      "frames": [
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/waving/00.png",
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/waving/01.png",
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/waving/02.png",
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/waving/03.png"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "jumping",
+      "frames": [
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/jumping/00.png",
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/jumping/01.png",
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/jumping/02.png",
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/jumping/03.png",
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/jumping/04.png"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "failed",
+      "frames": [
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/failed/00.png",
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/failed/01.png",
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/failed/02.png",
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/failed/03.png",
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/failed/04.png",
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/failed/05.png",
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/failed/06.png",
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/failed/07.png"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "waiting",
+      "frames": [
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/waiting/00.png",
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/waiting/01.png",
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/waiting/02.png",
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/waiting/03.png",
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/waiting/04.png",
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/waiting/05.png"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "running",
+      "frames": [
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/running/00.png",
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/running/01.png",
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/running/02.png",
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/running/03.png",
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/running/04.png",
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/running/05.png"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "review",
+      "frames": [
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/review/00.png",
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/review/01.png",
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/review/02.png",
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/review/03.png",
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/review/04.png",
+        "/Users/daro/work/llm-pet/output/clawd-pet/qa/extracted/review/05.png"
+      ],
+      "method": "components"
+    }
+  ]
+}

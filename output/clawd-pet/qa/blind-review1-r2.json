@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A eye cluster sits left of face center; B eyes sit toward the right."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A eyes occupy the left side; B eyes crowd the right edge."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A eyes are left-biased and staggered; B eyes cluster at the right edge."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A eyes are on the right side; B eyes are near the left edge."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A eyes sit on the right; B eyes sit far left and low."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A eyes sit low on the right; B eyes sit low on the left."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "ambiguous",
+      "B": "screen-right",
+      "reason": "A eyes are broadly spaced around the central face region with only a slight left bias; B eyes crowd the right edge."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "up",
+      "B": "down",
+      "reason": "A eyes sit near the top; B eyes sit near the lower face edge."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "down",
+      "B": "up",
+      "reason": "A eyes sit at the bottom of the face; B eyes sit high."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "up",
+      "B": "down",
+      "reason": "A eyes are in the upper part of the face; B eyes are close to the bottom edge."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "ambiguous",
+      "B": "down",
+      "reason": "A eyes are approximately midway down the face without clear vertical gaze; B eyes sit close to the bottom edge."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "down",
+      "B": "up",
+      "reason": "A eyes sit near the bottom edge; B staggered eyes occupy the upper face."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "up",
+      "B": "down",
+      "reason": "A eyes sit toward the top of the face; B staggered eyes sit low."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "ambiguous",
+      "B": "down",
+      "reason": "A eyes lie approximately around the middle of the face; B eyes sit near the bottom."
+    }
+  ]
+}
