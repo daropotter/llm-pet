@@ -1,0 +1,142 @@
+{
+  "ok": true,
+  "frames_root": "/Users/daro/work/llm-pet/output/clawd-pet/qa/rows/running-right/frames",
+  "states": [
+    "running-right"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/daro/work/llm-pet/output/clawd-pet/qa/rows/running-right/frames/running-right/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19184,
+          "bbox": [
+            6,
+            18,
+            185,
+            189
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 531
+        },
+        {
+          "index": 1,
+          "file": "/Users/daro/work/llm-pet/output/clawd-pet/qa/rows/running-right/frames/running-right/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18471,
+          "bbox": [
+            8,
+            18,
+            184,
+            189
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 529
+        },
+        {
+          "index": 2,
+          "file": "/Users/daro/work/llm-pet/output/clawd-pet/qa/rows/running-right/frames/running-right/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19233,
+          "bbox": [
+            7,
+            18,
+            185,
+            189
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 473
+        },
+        {
+          "index": 3,
+          "file": "/Users/daro/work/llm-pet/output/clawd-pet/qa/rows/running-right/frames/running-right/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18627,
+          "bbox": [
+            7,
+            18,
+            185,
+            189
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 419
+        },
+        {
+          "index": 4,
+          "file": "/Users/daro/work/llm-pet/output/clawd-pet/qa/rows/running-right/frames/running-right/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19242,
+          "bbox": [
+            6,
+            18,
+            186,
+            189
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 480
+        },
+        {
+          "index": 5,
+          "file": "/Users/daro/work/llm-pet/output/clawd-pet/qa/rows/running-right/frames/running-right/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18368,
+          "bbox": [
+            7,
+            18,
+            184,
+            189
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 524
+        },
+        {
+          "index": 6,
+          "file": "/Users/daro/work/llm-pet/output/clawd-pet/qa/rows/running-right/frames/running-right/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19385,
+          "bbox": [
+            6,
+            18,
+            186,
+            189
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 702
+        },
+        {
+          "index": 7,
+          "file": "/Users/daro/work/llm-pet/output/clawd-pet/qa/rows/running-right/frames/running-right/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18700,
+          "bbox": [
+            7,
+            18,
+            185,
+            189
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 519
+        }
+      ]
+    }
+  ]
+}

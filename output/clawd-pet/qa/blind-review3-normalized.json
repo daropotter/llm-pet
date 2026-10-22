@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's eyes cluster toward the left and slope toward the snout; B's eyes cluster near the right edge."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A has its eye pair at the right side of the body; B has its eye pair toward the left."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's slanted eye pair is displaced left; B's eye pair is displaced far right."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A's eyes sit near the right edge; B's eyes sit near the protruding left snout."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's face sits left of center; B's face sits close to the right edge."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A's low eye pair is at the right edge; B's low slanting eye pair is toward the left."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-right",
+      "B": "ambiguous",
+      "reason": "A's eyes clearly occupy the right edge; B's eyes are spread around the body center without a clear lateral gaze."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "down",
+      "B": "up",
+      "reason": "A's eyes sit low near the belly; B's eyes are elevated near the top of the face."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "down",
+      "B": "up",
+      "reason": "A's eye pair is at the lower right; B's pair is at the upper right."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "down",
+      "B": "up",
+      "reason": "A's eye pair lies close to the bottom edge, while B's is much higher on the face."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "up",
+      "B": "down",
+      "reason": "A's eye pair sits higher on the right face area; B's eye pair is lowered toward the belly."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "down",
+      "B": "up",
+      "reason": "A's eye pair is low along the belly; B's slanted eye pair sits high near the upper left contour."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "up",
+      "B": "down",
+      "reason": "A's slanted eye pair is raised toward the upper left; B's corresponding pair is lowered toward the snout and belly."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "up",
+      "B": "down",
+      "reason": "A's slanted eyes sit higher on the face; B's eyes sit lower near the protruding snout."
+    }
+  ]
+}

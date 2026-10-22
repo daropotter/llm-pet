@@ -1,0 +1,112 @@
+{
+  "ok": true,
+  "frames_root": "/Users/daro/work/llm-pet/output/clawd-pet/qa/rows/running/frames",
+  "states": [
+    "running"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/daro/work/llm-pet/output/clawd-pet/qa/rows/running/frames/running/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21550,
+          "bbox": [
+            5,
+            18,
+            187,
+            190
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 193
+        },
+        {
+          "index": 1,
+          "file": "/Users/daro/work/llm-pet/output/clawd-pet/qa/rows/running/frames/running/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18346,
+          "bbox": [
+            16,
+            38,
+            176,
+            190
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 230
+        },
+        {
+          "index": 2,
+          "file": "/Users/daro/work/llm-pet/output/clawd-pet/qa/rows/running/frames/running/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17074,
+          "bbox": [
+            16,
+            48,
+            176,
+            190
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 416
+        },
+        {
+          "index": 3,
+          "file": "/Users/daro/work/llm-pet/output/clawd-pet/qa/rows/running/frames/running/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21664,
+          "bbox": [
+            5,
+            18,
+            187,
+            190
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 394
+        },
+        {
+          "index": 4,
+          "file": "/Users/daro/work/llm-pet/output/clawd-pet/qa/rows/running/frames/running/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17850,
+          "bbox": [
+            14,
+            42,
+            178,
+            190
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 321
+        },
+        {
+          "index": 5,
+          "file": "/Users/daro/work/llm-pet/output/clawd-pet/qa/rows/running/frames/running/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21636,
+          "bbox": [
+            5,
+            18,
+            187,
+            190
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 149
+        }
+      ]
+    }
+  ]
+}

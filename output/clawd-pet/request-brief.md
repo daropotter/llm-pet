@@ -1,0 +1,1 @@
+Create and select a ChatGPT pet based on the llm-pet repository. Name: Clawd. Identity reference: docs/logo.png and repository animation GIFs. Preserve terracotta pixel silhouette, short legs, tiny dark eyes, asymmetric upper protrusion and side appendage, no outline. Base generated using built-in imagegen. Local artifact storage is used because Library tools are unavailable.

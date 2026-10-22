@@ -1,0 +1,16 @@
+{
+  "ok": true,
+  "file": "/Users/daro/work/llm-pet/output/clawd-pet/final/spritesheet-extended.png",
+  "encoded_bytes": 1323781,
+  "sha256": "5a42befc947402de2d2fa873126cff29a70b2161fd7b7d706baeb722a86b28d1",
+  "format": "PNG",
+  "mode": "RGBA",
+  "columns": 8,
+  "rows": 11,
+  "sprite_version_number": 2,
+  "width": 1536,
+  "height": 2288,
+  "transparent_rgb_residue_pixels": 0,
+  "errors": [],
+  "warnings": []
+}

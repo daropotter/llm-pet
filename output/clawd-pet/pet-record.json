@@ -1,0 +1,9 @@
+{
+  "id": "pet_6ad6c5df65f481918381ca0764b60b00",
+  "name": "Clawd",
+  "description": "A terracotta pixel companion based on llm-pet.",
+  "is_custom": true,
+  "is_active": true,
+  "spritesheet": "final/spritesheet-extended.png",
+  "workflow": "Built-in imagegen; bundled Pets pipeline; local artifacts (Library unavailable)."
+}

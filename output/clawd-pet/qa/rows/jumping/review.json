@@ -1,0 +1,97 @@
+{
+  "ok": true,
+  "frames_root": "/Users/daro/work/llm-pet/output/clawd-pet/qa/rows/jumping/frames",
+  "states": [
+    "jumping"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/daro/work/llm-pet/output/clawd-pet/qa/rows/jumping/frames/jumping/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15441,
+          "bbox": [
+            9,
+            70,
+            182,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 224
+        },
+        {
+          "index": 1,
+          "file": "/Users/daro/work/llm-pet/output/clawd-pet/qa/rows/jumping/frames/jumping/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15710,
+          "bbox": [
+            9,
+            46,
+            182,
+            184
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 321
+        },
+        {
+          "index": 2,
+          "file": "/Users/daro/work/llm-pet/output/clawd-pet/qa/rows/jumping/frames/jumping/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15470,
+          "bbox": [
+            9,
+            5,
+            182,
+            140
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 237
+        },
+        {
+          "index": 3,
+          "file": "/Users/daro/work/llm-pet/output/clawd-pet/qa/rows/jumping/frames/jumping/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15472,
+          "bbox": [
+            9,
+            44,
+            182,
+            181
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 220
+        },
+        {
+          "index": 4,
+          "file": "/Users/daro/work/llm-pet/output/clawd-pet/qa/rows/jumping/frames/jumping/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15388,
+          "bbox": [
+            9,
+            72,
+            182,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 304
+        }
+      ]
+    }
+  ]
+}

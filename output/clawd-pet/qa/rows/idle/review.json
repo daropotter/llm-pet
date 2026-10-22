@@ -1,0 +1,112 @@
+{
+  "ok": true,
+  "frames_root": "/Users/daro/work/llm-pet/output/clawd-pet/qa/rows/idle/frames",
+  "states": [
+    "idle"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/daro/work/llm-pet/output/clawd-pet/qa/rows/idle/frames/idle/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18033,
+          "bbox": [
+            5,
+            30,
+            187,
+            182
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 483
+        },
+        {
+          "index": 1,
+          "file": "/Users/daro/work/llm-pet/output/clawd-pet/qa/rows/idle/frames/idle/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18274,
+          "bbox": [
+            6,
+            26,
+            186,
+            181
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 375
+        },
+        {
+          "index": 2,
+          "file": "/Users/daro/work/llm-pet/output/clawd-pet/qa/rows/idle/frames/idle/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18590,
+          "bbox": [
+            6,
+            26,
+            186,
+            181
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 382
+        },
+        {
+          "index": 3,
+          "file": "/Users/daro/work/llm-pet/output/clawd-pet/qa/rows/idle/frames/idle/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18401,
+          "bbox": [
+            6,
+            26,
+            186,
+            181
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 525
+        },
+        {
+          "index": 4,
+          "file": "/Users/daro/work/llm-pet/output/clawd-pet/qa/rows/idle/frames/idle/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17736,
+          "bbox": [
+            6,
+            30,
+            186,
+            182
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 336
+        },
+        {
+          "index": 5,
+          "file": "/Users/daro/work/llm-pet/output/clawd-pet/qa/rows/idle/frames/idle/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17951,
+          "bbox": [
+            6,
+            30,
+            186,
+            182
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 448
+        }
+      ]
+    }
+  ]
+}
